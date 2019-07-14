@@ -1,9 +1,9 @@
 # Titanic-Survivor-Prediction-via-Machine-Learning-Algorithms
 Titanic Survivor Prediction via Machine Learning Algorithms detail test
 Team Members:
-
-Akkal Bahadur Bist
-Mausham Shrestha
-Dipu Sah
-Mukesh Adhikari
+<b>
+Akkal Bahadur Bist <br>
+Mausham Shrestha <br>
+Dipu Sah <br>
+Mukesh Adhikari <br>
 References from Kaggle & WiKi
